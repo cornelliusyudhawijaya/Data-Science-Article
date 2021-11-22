@@ -21,7 +21,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 17. [Python Application](https://github.com/cornelliusyudhawijaya/Data-Science-Article#python-application)
 18. [Statistic](https://github.com/cornelliusyudhawijaya/Data-Science-Article#statistic)
 19. [Time Series](https://github.com/cornelliusyudhawijaya/Data-Science-Article#time-series)
-20. [Unsupervised Learning](https://github.com/cornelliusyudhawijaya/Data-Science-Article#time-series)
+20. [Unsupervised Learning](https://github.com/cornelliusyudhawijaya/Data-Science-Article#unsupervised-learning-)
 
 # Causal Analysis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Causal_Analysis/HEAD)
 
