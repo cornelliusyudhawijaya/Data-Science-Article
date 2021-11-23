@@ -30,14 +30,14 @@ Collection of My Data Science article with Code to help you learning. The articl
 |Estimate the Causal Effect Intervention on Time Series with causalimpact|[Link](https://towardsdatascience.com/estimate-the-causal-effect-intervention-on-time-series-with-causalimpact-e949c5cd4147?sk=777ddf39adeca0f5ba2c0daa68f7f29c)|
 |A Quickstart for Causal Analysis Decision-Making with DoWhy|[Link](https://medium.com/geekculture/a-quickstart-for-causal-analysis-decision-making-with-dowhy-2ce2d4d1efa9?sk=0e9fe1b94eff51362c2fa58fb702dfb8)|
 
-# Data Exploration
+# Data Exploration [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Data_Exploration_Notebook/HEAD)
 
 |Article|Link|
 |---|---|
 |Exploring the Data: Learn from the Food Nutrition|[Link](https://towardsdatascience.com/exploring-the-data-learn-from-the-food-nutrition-a4ea2110522a?sk=095100eefeb968a6f9f0d03ad4101442)|
 |Grimm’s Tales Topic Analysis via LDA: Why some Tales are Famous|[Link](https://towardsdatascience.com/grimms-tales-topic-analysis-via-lda-why-some-tales-are-famous-163ee90013b5?sk=87b19c6afe8d5557cee7e49cdb4a8a79)|
 
-# Data Preparation
+# Data Preparation [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Data_Preparation_Repo/HEAD)
 
 |Article|Link|
 |---|---|
@@ -50,7 +50,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 |Beginner Explanation for Data Transformation|[Link](https://towardsdatascience.com/beginner-explanation-for-data-transformation-9add3102f3bf?sk=a858653e1ecec13a74d1213f9d01393c)|
 |5 Data Transformers to know from Scikit-Learn|[Link](https://towardsdatascience.com/5-data-transformers-to-know-from-scikit-learn-612bc48b8c89?sk=b05ffad39b3a1685e84796eec6189d27)|
 
-# Data Science Business
+# Data Science Business [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Data_Science_Business_Repo/HEAD)
 
 |Article|Link|
 |---|---|
@@ -107,7 +107,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 |CRISP-DM Methodology For Your First Data Science Project|[Link](https://towardsdatascience.com/crisp-dm-methodology-for-your-first-data-science-project-769f35e0346c?sk=8ac62b5208ed2d7d3b5384d49a21e012)|
 |5 Mistakes to Avoid when Studying Math for Machine Learning|[Link](https://towardsdatascience.com/5-mistakes-to-avoid-when-studying-math-for-machine-learning-6c8bcb2e2d06?sk=f0f455e89e21941e35ebcab8a4e35dd8)|
 
-# Data Science Tools
+# Data Science Tools [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Data_Science_Tools_Repo/HEAD)
 
 |Article|Link|
 |---|---|
@@ -121,7 +121,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 |Speed up your Pandas Processing with Swifter|[Link](https://towardsdatascience.com/speed-up-your-pandas-processing-with-swifter-6aa314600a13?sk=e97035b67d0b3cd89770fe63b9321d91)|
 |Data Frame EDA Packages Comparison: Pandas Profiling, Sweetviz, and PandasGUI|[Link](https://towardsdatascience.com/data-frame-eda-packages-comparison-pandas-profiling-sweetviz-and-pandasgui-bbab4841943b?sk=bc00896464abce0fabbdf8e620200c36)|
 
-# Data Visualization
+# Data Visualization [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Data_Visualization_Repo/HEAD)
 
 |Article|Link|
 |---|---|
@@ -146,7 +146,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 |From Google Sheet to your Jupyter Notebook|[Link](https://towardsdatascience.com/from-google-sheet-to-your-jupyter-notebook-ccdbf28fbf1b?sk=f1b686c0c05a4c6038ae5785e463eb9f)|
 |Jupyter Notebook to PDF in a few lines|[Link](https://towardsdatascience.com/jupyter-notebook-to-pdf-in-a-few-lines-3c48d68a7a63?sk=c63c0ba9fdc6a84d6cb39f7d4b1e0b5d)|
 
-# Machine Learning
+# Machine Learning [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Machine_Learning_Repo/HEAD)
 
 |Article|Link|
 |---|---|
@@ -171,7 +171,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 |---|---|
 |4 Top Python Packages to learn NLP|[Link](https://towardsdatascience.com/4-top-python-packages-to-learn-nlp-cf7216730426?sk=1ee34c68c7a26f6bea898ba279f786d4)|
 
-# Pandas Tips
+# Pandas Tips [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Pandas_Tips_Repo/HEAD)
 
 |Article|Link|
 |---|---|
@@ -194,7 +194,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 |3 Top Python IDE for Beginner Programmer|[Link](https://towardsdatascience.com/3-top-python-ide-for-beginner-programmer-5606d6c1af79?sk=3c70a0ad9d76b07c2aebca90a33bdc1e)|
 |4 Top Python IDE for Data Scientists|[Link](https://towardsdatascience.com/4-top-python-ide-for-data-scientist-ccb92d143ca3?sk=62acf8b8406fa374dfdb73e7ab091760)|
 
-# Python Application
+# Python Application [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Python_Application_Repo/HEAD)
 
 |Article|Link|
 |---|---|
@@ -202,7 +202,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 |Creating a Simple Rule-Based Chatbot with Python|[Link](https://medium.com/geekculture/creating-a-simple-rule-based-chatbot-with-python-e7928d0573af?sk=1f9d23176054baed51ad35a06aa087bb)|
 |Personalized your Python Notification Sounds with Chime|[Link](https://towardsdatascience.com/personalized-your-python-notification-sounds-with-chime-d04e803d7615?sk=b5a337c67e01efc25987643e2e5fe8d2)|
 
-# Statistic
+# Statistic [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Statistic_Repo/HEAD)
 
 |Article|Link|
 |---|---|
