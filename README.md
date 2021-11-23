@@ -3,6 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornellius-yudha-wijaya/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CornelliusYW)
 
+If you feel the material helpful to you, maybe **bought me a cup of coffee?** Thank you!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M273WKC)
+
 # Data-Science-Article
 Collection of My Data Science article with Code to help you learning. The article are published in my [personal blog](https://medium.com/@cornelliusyudhawijaya)
 
@@ -150,6 +154,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 |Another Way to Elevate your Jupyter Notebook Experience|[Link](https://towardsdatascience.com/another-way-to-elevate-your-jupyter-notebook-experience-1965991d4269?sk=088b693160ea3def0cb50eb4fddfc881)|
 |From Google Sheet to your Jupyter Notebook|[Link](https://towardsdatascience.com/from-google-sheet-to-your-jupyter-notebook-ccdbf28fbf1b?sk=f1b686c0c05a4c6038ae5785e463eb9f)|
 |Jupyter Notebook to PDF in a few lines|[Link](https://towardsdatascience.com/jupyter-notebook-to-pdf-in-a-few-lines-3c48d68a7a63?sk=c63c0ba9fdc6a84d6cb39f7d4b1e0b5d)|
+|Convert Jupyter-Notebook to Various File Formats in a few lines of codes|[Link](https://medium.datadriveninvestor.com/convert-jupyter-notebook-to-various-file-formats-in-a-few-lines-of-codes-527af4299848?sk=97b2d9f091f6efb725f7e18185a268e3)|
 
 # Machine Learning [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Machine_Learning_Repo/HEAD)
 
@@ -234,6 +239,4 @@ Collection of My Data Science article with Code to help you learning. The articl
 |5 Must-Know Dimensionality Reduction Techniques via Prince|[Link](https://towardsdatascience.com/5-must-know-dimensionality-reduction-techniques-via-prince-e6ffb27e55d1?sk=b036712f2dbfaf5901e034405729257d)|
 |Breaking down the agglomerative clustering process|[Link](https://towardsdatascience.com/breaking-down-the-agglomerative-clustering-process-1c367f74c7c2?sk=5354d0e8fd875d8c4ea2010ea0996b1d)|
 
-If you feel the material helpful to you, maybe **bought me a cup of coffee?** Thank you!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M273WKC)
