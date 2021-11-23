@@ -1,3 +1,5 @@
+https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white(https://cornelliusyudhawijaya.medium.com/)
+
 # Data-Science-Article
 Collection of My Data Science article with Code to help you learning. The article are published in my [personal blog](https://medium.com/@cornelliusyudhawijaya)
 
