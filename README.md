@@ -31,6 +31,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 18. [Statistic](https://github.com/cornelliusyudhawijaya/Data-Science-Article#statistic)
 19. [Time Series](https://github.com/cornelliusyudhawijaya/Data-Science-Article#time-series)
 20. [Unsupervised Learning](https://github.com/cornelliusyudhawijaya/Data-Science-Article#unsupervised-learning-)
+21. [Recommendation System](https://github.com/cornelliusyudhawijaya/Data-Science-Article#recommendation-system)
 
 # Causal Analysis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Causal_Analysis/HEAD)
 
@@ -98,6 +99,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 |7 Signs you are data literate|[Link](https://towardsdatascience.com/7-signs-you-are-data-literate-4a844efcdd32?sk=585ae499f5bcc7f4b3d7675544fc69f1)|
 |Data Scientist Job — Is It Worth the Sacrifices Made?|[Link](https://towardsdatascience.com/data-scientist-job-is-it-worth-the-sacrifices-made-efdf34139aa6?sk=a3a005586642a796f4edb80d617cfa36)|
 |7 Data Science Quotes to Remember|[Link](https://towardsdatascience.com/7-data-science-quotes-to-remember-e9b9da55f5e8?sk=650a37df5636800882abf0937fb0af62)|
+|Experimenting on AI Capability to write Data Science Article|[Link](https://medium.datadriveninvestor.com/experimenting-on-ai-capability-to-write-data-science-article-feff3489f31d?sk=7617fba9230d3e06e810c358761c02eb)|
 
 # Data Science Resources
 
@@ -164,6 +166,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 |Automated Machine Learning (AutoML) Gentle Introduction — TPOT module case|[Link](https://towardsdatascience.com/automated-machine-learning-automl-gentle-introduction-tpot-module-case-f5d5a73b2b29?sk=b2cd47215d1a64a42d5e5ae06601f929)|
 |4 Top Python Packages to Learn Machine Learning|[Link](https://towardsdatascience.com/4-top-python-packages-to-learn-machine-learning-738db030c717?sk=cc2758e31321c3ed5af45ea93e6b9c39)|
 |6 Top Python Packages for Machine Learning Interpretability|[Link](https://towardsdatascience.com/6-top-python-packages-for-machine-learning-interpretability-f9fec3c2d1e9?sk=369e005f6f20e9de48de1fa4646f5592)|
+|4 Interactive Tools to learn Machine Learning|[Link](https://towardsdatascience.com/4-interactive-tools-to-learn-machine-learning-eedfdfb4005e?sk=54434424bb439fc00e0e7a43c5b62d80)|
 
 # Mathematic
 
@@ -239,4 +242,8 @@ Collection of My Data Science article with Code to help you learning. The articl
 |5 Must-Know Dimensionality Reduction Techniques via Prince|[Link](https://towardsdatascience.com/5-must-know-dimensionality-reduction-techniques-via-prince-e6ffb27e55d1?sk=b036712f2dbfaf5901e034405729257d)|
 |Breaking down the agglomerative clustering process|[Link](https://towardsdatascience.com/breaking-down-the-agglomerative-clustering-process-1c367f74c7c2?sk=5354d0e8fd875d8c4ea2010ea0996b1d)|
 
+# Recommendation System
+|Article|Link|
+|---|---|
+|Top 3 Python Packages to Learn the Recommendation System|[Link](https://towardsdatascience.com/top-3-python-package-to-learn-the-recommendation-system-bb11a916b8ff?sk=b287631634228c53b68551ddb1b8af9b)|
 
