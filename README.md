@@ -59,6 +59,11 @@ Collection of My Data Science article with Code to help you learning. The articl
 |3 Missing Data Types and the suggestion to handle it|[Link](https://medium.datadriveninvestor.com/3-missing-data-types-and-the-suggestion-to-handle-it-75eb10bfdf3b?sk=7f4932dbfc09f2b5cc00ea441450c69b)|
 |Beginner Explanation for Data Transformation|[Link](https://towardsdatascience.com/beginner-explanation-for-data-transformation-9add3102f3bf?sk=a858653e1ecec13a74d1213f9d01393c)|
 |5 Data Transformers to know from Scikit-Learn|[Link](https://towardsdatascience.com/5-data-transformers-to-know-from-scikit-learn-612bc48b8c89?sk=b05ffad39b3a1685e84796eec6189d27)|
+|Top Data Cleaning Python Packages|[Link](https://towardsdatascience.com/top-data-cleaning-python-packages-e6bde24b273b?sk=9798930a307dc8e2b84cb61e8754fff7)|
+|Top 3 Python Packages to Generate Synthetic Data|[Link](https://towardsdatascience.com/top-3-python-packages-to-generate-synthetic-data-33a351a5de0c?sk=43dc2ae3e0a5f3327a3a9e22f44b4a3d)|
+|Top 3 Python Packages for Outlier Detection|[Link](https://towardsdatascience.com/top-3-python-packages-for-outlier-detection-2dc004be9014?sk=7266c9f82bd2835319b85260f8fb63c1)|
+
+
 
 # Data Science Business [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Data_Science_Business_Repo/HEAD)
 
@@ -69,6 +74,9 @@ Collection of My Data Science article with Code to help you learning. The articl
 |Model Benefit Evaluation with Lift and Gain Analysis|[Link](https://towardsdatascience.com/model-benefit-evaluation-with-lift-and-gain-analysis-4b69f9288ab3?sk=3bed0d5a4210043e65a75690184e609a)|
 |4 Way to Build Your Business Knowledge for Data Science Job|[Link](https://towardsdatascience.com/4-way-to-build-your-business-knowledge-for-data-science-job-4c3c04ea3d8a?sk=079faf9cbcaa3c57837e3c64a1a47e5d)|
 |3 Underrated Data Jobs with High Prospects|[Link](https://towardsdatascience.com/3-underrated-data-jobs-with-high-prospects-1b86987942ab?sk=e93f9e744da1fcb01f97165f5f8e2a77)|
+|How to Set Technical Metrics Data Science Project for Business|[Link](https://towardsdatascience.com/how-to-set-technical-metrics-data-science-project-for-business-7e77084448a4?sk=350607927d24bcde564181c2c7993aca)|
+|Data Science Activity in a Corporate Company|[Link](https://medium.datadriveninvestor.com/data-science-activity-in-a-corporate-company-be8852e9516b?sk=4bd3f2e037d78aecad846d3f1f5936c9)|
+|Data Science Project to Improve your Business Understanding|[Link](https://towardsdatascience.com/data-science-project-to-improve-your-business-understanding-776386abbf63?sk=e50db57db7f5e9c4ffac812ddb675ad7)|
 |How to Set Technical Metrics Data Science Project for Business|[Link](https://towardsdatascience.com/how-to-set-technical-metrics-data-science-project-for-business-7e77084448a4?sk=350607927d24bcde564181c2c7993aca)|
 
 # Data Science Interview
@@ -101,6 +109,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 |Data Scientist Job — Is It Worth the Sacrifices Made?|[Link](https://towardsdatascience.com/data-scientist-job-is-it-worth-the-sacrifices-made-efdf34139aa6?sk=a3a005586642a796f4edb80d617cfa36)|
 |7 Data Science Quotes to Remember|[Link](https://towardsdatascience.com/7-data-science-quotes-to-remember-e9b9da55f5e8?sk=650a37df5636800882abf0937fb0af62)|
 |Experimenting on AI Capability to write Data Science Article|[Link](https://medium.datadriveninvestor.com/experimenting-on-ai-capability-to-write-data-science-article-feff3489f31d?sk=7617fba9230d3e06e810c358761c02eb)|
+|What It’s Like to Be a Data Scientist in a Corporate Company|[Link](https://medium.datadriveninvestor.com/what-its-like-to-be-a-data-scientist-in-a-corporate-company-ee4ccd8ff601?sk=98cb1bbaa05abfec3a0873f569cb6c04)|
 
 # Data Science Resources
 
@@ -109,6 +118,9 @@ Collection of My Data Science article with Code to help you learning. The articl
 |Creating and Using Virtual Environment on Jupyter Notebook with Python|[Link](https://towardsdatascience.com/creating-and-using-virtual-environment-on-jupyter-notebook-with-python-db3f5afdd56a?sk=bb8c6a1ce6d3f324b24740d3f49611ac)|
 |Important GIT Commands For Data Scientist|[Link](https://towardsdatascience.com/important-git-commands-for-data-scientist-fb4e79041d18?sk=d52f53e07970206a3e46df0f954a7e30)|
 |My Top 5 Free Statistic Resource Book|[Link](https://medium.datadriveninvestor.com/my-top-5-free-statistic-resource-book-7b5c60d05ae7?sk=5e2fe8b30cb8714d7f401c438b1e288d)|
+|Top GitBook Projects to Learn Machine Learning|[Link](https://pub.towardsai.net/top-gitbook-projects-to-learn-machine-learning-4f8c27edcd59?sk=d3f0cf510d773f8d07097b4f654dc4ba)|
+|Top Open-Source Project to Learn Data Science|[Link](https://towardsdatascience.com/top-open-source-project-to-learn-data-science-dc962210d855?sk=c9f29fcd5d81a76944206029ebd32f32)|
+
 
 # Data Science Tips
 
@@ -118,6 +130,7 @@ Collection of My Data Science article with Code to help you learning. The articl
 |6 Programming Study Tips for Non-IT Education Background|[Link](https://towardsdatascience.com/6-programming-study-tips-for-non-it-education-background-50bbbfbb9a3a?sk=d2c9b14545ec19ee936f9b2b4f9f2d91)|
 |CRISP-DM Methodology For Your First Data Science Project|[Link](https://towardsdatascience.com/crisp-dm-methodology-for-your-first-data-science-project-769f35e0346c?sk=8ac62b5208ed2d7d3b5384d49a21e012)|
 |5 Mistakes to Avoid when Studying Math for Machine Learning|[Link](https://towardsdatascience.com/5-mistakes-to-avoid-when-studying-math-for-machine-learning-6c8bcb2e2d06?sk=f0f455e89e21941e35ebcab8a4e35dd8)|
+|Tips to Improve your Communication skill for Data Scientist|[Link](https://medium.datadriveninvestor.com/tips-to-improve-your-communication-skill-for-data-scientist-1ac6eaa20b07?sk=2a5fe88ea43f991cef98f97336337450)|
 
 # Data Science Tools [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Data_Science_Tools_Repo/HEAD)
 
@@ -132,6 +145,13 @@ Collection of My Data Science article with Code to help you learning. The articl
 |How to implement ggplot2 in Python|[Link](https://medium.datadriveninvestor.com/how-to-implement-ggplot2-in-python-82f2d0cec998?sk=b55944fb30fd217799d05c00643e6003)|
 |Speed up your Pandas Processing with Swifter|[Link](https://towardsdatascience.com/speed-up-your-pandas-processing-with-swifter-6aa314600a13?sk=e97035b67d0b3cd89770fe63b9321d91)|
 |Data Frame EDA Packages Comparison: Pandas Profiling, Sweetviz, and PandasGUI|[Link](https://towardsdatascience.com/data-frame-eda-packages-comparison-pandas-profiling-sweetviz-and-pandasgui-bbab4841943b?sk=bc00896464abce0fabbdf8e620200c36)|
+|Innovative Data Labeling Projects with Label Studio and DagsHub|[Link](https://towardsdatascience.com/innovative-data-labeling-projects-with-label-studio-and-dagshub-99c327f357e5?sk=fcb7d91f1cbfa9da7d0fcb588d4001e9)|
+|Simplify Collaboration for Data Scientist with DagsHub Mirroring|[Link](https://pub.towardsai.net/simplify-collaboration-for-data-scientist-with-dagshub-mirroring-705471698233?sk=518c4f7777bb6ff115e00cb9e327b301)|
+|Terality: Serverless Engine to Accelerate your Data Processing|[Link](https://medium.datadriveninvestor.com/terality-serverless-engine-to-accelerate-your-data-processing-5464d8c898c7?sk=6ee4788dad9e2adefd1dc84c08a2ee62)|
+|Introducing DagsHub: Complete Data Science Project Integration Platform|[Link](https://towardsdatascience.com/introducing-dagshub-complete-data-science-project-integration-platform-c3bec84e4e7c?sk=47a9a4fb81ad5900a7592d78535dd17a)|
+|Top 3 Python Packages for Machine Learning Validation|[Link](https://towardsdatascience.com/top-3-python-packages-for-machine-learning-validation-2df17ee2e13d?sk=c15b74154e5ddeb374302f5f4463ec72)|
+|Top 3 Python Packages to learn Audio Data Science Project|[Link](https://towardsdatascience.com/top-3-python-packages-to-learn-audio-data-science-project-cbd11c100fe7?sk=fea7fd8be5b46fab8bdd1b88842415f9)|
+
 
 # Data Visualization [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Data_Visualization_Repo/HEAD)
 
